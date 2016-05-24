@@ -1,0 +1,10 @@
+# CONFIGURATION FILE
+#
+# configuration:
+#
+# Note: The 'PASSWORD' field needs to be an OAuth password, you can generate one here: https://twitchapps.com/tmi/ - this will replace your previous OAuth password (!)
+#
+SERVER=irc.twitch.tv
+PORT=6667
+PASSWORD=
+USERNAME=

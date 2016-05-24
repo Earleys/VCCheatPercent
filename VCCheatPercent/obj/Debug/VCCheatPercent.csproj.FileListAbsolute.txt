@@ -1,0 +1,11 @@
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\bin\Debug\VCCheatPercent.exe.config
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.Form1.resources
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.Properties.Resources.resources
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.csproj.GenerateResource.Cache
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\bin\Debug\VCCheatPercent.exe
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\bin\Debug\VCCheatPercent.pdb
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.exe
+c:\users\earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.pdb
+C:\Users\Earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\bin\Debug\System.Net.Http.dll
+C:\Users\Earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\bin\Debug\System.Net.Http.xml
+C:\Users\Earleys\documents\visual studio 2015\Projects\VCCheatPercent\VCCheatPercent\obj\Debug\VCCheatPercent.csprojResolveAssemblyReference.cache
